@@ -1,6 +1,6 @@
 ### READ ME FIRST ###
 
-This OSF page contains Matlab code to run the Importance Sampling
+This GitHub page contains Matlab code to run the Importance Sampling
 Squared (IS^2) method of estimating the marginal likelihood of
 cognitive models developed in:
 
